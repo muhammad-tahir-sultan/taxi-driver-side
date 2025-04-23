@@ -23,8 +23,6 @@ android/local.properties
 *.hprof
 
 # Environment files
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -72,3 +70,4 @@ coverage/
 
 # React Native specific
 .watchman_cookie 
+config.bat
